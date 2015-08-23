@@ -1,4 +1,4 @@
-# MappingLayerManager
+# Mapping Layer Manager
 A javascript control for working with geographic map (GIS) layers that relies on GISCloud service.
 
 This control is backed up by an example library of classes which provide the basic UI framework for code organisation and extensibility (class system, event model, etc.). The way the code was organised was inspired by ExtJS framework, and was built on top of jQuery library.
