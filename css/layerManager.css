@@ -1,0 +1,9 @@
+.layer-manager ul.layer-list {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.layer-manager ul.layer-list > li:not(:last-child) {
+	border-bottom: 1px solid #CCC;
+}
